@@ -1,0 +1,32 @@
+Written Exercise __ Part 1
+Question 1
+a.x = 2 and y = 5? x=2
+b.x = 3 and y = 1? x=3
+c.x = 1 and y = 1? x=1
+d.x = 4 and y = 3? z=7
+Question 2
+2.
+a. y = 1
+
+b. y = 1
+Question 3
+a.
+
+****
+*2 *
+*4 *
+*6 * Output
+*8 *
+*10*
+****
+we run through the loop body 10 times
+
+Question 4
+
+Nothing
+
+
+
+
+
+
